@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 05cdecfaac4c4a541b0ea1360e4d331a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Supercell-Magic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cbb1702d4f4c5f54cbecefa2af6dfb73, type: 3}
+  - {fileID: 12800000, guid: e2531bca5fb9a1f42aee12d8cffe9679, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
